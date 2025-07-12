@@ -39,4 +39,3 @@ class ActorManager:
             (pk,)
         )
         self._connection.commit()
-
